@@ -1,0 +1,1609 @@
+{
+  "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+  "metaDescription": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
+  "metaKeywords": "yahoo, yahoo home page, yahoo homepage, yahoo search, yahoo mail, yahoo messenger, yahoo games, news, finance, sport, entertainment",
+  "images": [
+    "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderStart&code=pageRender&bucket=rocket_GA_desk_test-3-v1%2CUSNEL-ReactInRMP-commerce-test-1001%2CTNBE004%2Cseamless&device=desktop&intl=us&rid=21qdcitjfpn67&site=fp&t=1727847624040",
+    "https://s.yimg.com/uu/api/res/1.2/0z6ZNRRPbYgybJ3hoktTCw--~B/Zmk9c3RyaW07aD0yNzI7cT05NTt3PTU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/69d90ab0-8077-11ef-bfe7-7696551fe5a6.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/rB5DH.7TGOHHZBvOLLEuLw--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/625dd3c0-802b-11ef-ae3f-086f241fc9dd.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/HvqIKXd45w0knmqnBdx.rg--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/22897760-802e-11ef-ba5e-36b91c10c78c.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/rTuxgAWQmLNMgdUj7gTx_g--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/061761d0-801c-11ef-bdf7-25cfbbd38116.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/VjNgQnmoAYyA4js.Wqa4aw--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/5397af50-8030-11ef-bce7-f7cbf3c7c2c8.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/O9Vd0OorMyg7EWAteL2TKg--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/c23bd0e0-8025-11ef-9dd7-5c3baff2a20f.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/pLtQaDU6WQRSAhYRryCUOQ--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/c4f74e20-8077-11ef-bdfa-6ef5f89a468f.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/heH9.64LbR6.R2qUGf7oBg--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/fecb89f0-806c-11ef-afdd-44a2ac615198.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/hqXxQrh6j8oOaIks6MLtGQ--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_news_641/f50d7de9747caa541164417cd46e9b18.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/rcDUd3i2XyMYztfBdEBqWw--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8c9a3aafc8ec1ea300ac5b03c5084a03.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/8stogLh7pXDUApDvqZuyaw--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e8ff68001d8c7d4b9fb593007558b26f.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/kJnlGu1.P786eOfbVib1kg--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-08/9e9d9cf0-6477-11ef-9ed7-a86bff18e3bf.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/C4g7HZnvzKAFpvm.fh8Wtw--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_independent_635/32cb4b552d893091a14be16133aa4398.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/v1zlLUEVQbF_DkxNvk964A--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/9ef9d290-8056-11ef-af7f-cc79a3e18da1.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/uAXdJXBuTzdd.CZ4AsbPJQ--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pennsylvania_capital_star_articles_971/769f7fef1d8bfdebce38e41b83f1492c.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/.hbkXB8riW7ZBB8ArA9b8g--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/7447253486b7764bbd1b373271caa83a.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/2TRCW1UsxzDUkJonpm2jnQ--~B/Zmk9c3RyaW07aD00MjA7cT05NTt3PTcwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_news_641/35b9092e2caee8d52bfcb5e7557c4ab4.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/ArB2mlNqM_LlOmQ5_CP.pg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_news_641/009c84e31a0c91950ae99e8de26a4505.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/rmwnH3XZJajzHfSr_hfbbQ--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/glamour_497/8f1272092d103aa41d50794d9448eebf.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/X8tkIhetwknLGQjN2R07OQ--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/us.abcnews.go.com/d127e806696d1c7ac9436b3ef2f75185.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/AwACyGn5dH12mnyaPyjbLg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_sports_articles_558/06be63e009b1f464a714fe81d5f88717.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/AY45O6Bhiqbze7gbJRMRvQ--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_news_641/3294f1df5b73c27445e06773036a1d6c.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/EkRAmsDvgvqaItsekntp6w--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/parade_250/efa359da870577b320877bcae8fe7582.cf.webp",
+    "https://s.yimg.com/uu/api/res/1.2/qgScPpOPTug4LMvvjPDbug--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/kxrm_colorado_springs_articles_460/15e77e3f56a754c09ac3ed2357ec0147.cf.webp",
+    "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderEnd&code=pageRender&bucket=rocket_GA_desk_test-3-v1%2CUSNEL-ReactInRMP-commerce-test-1001%2CTNBE004%2Cseamless&device=desktop&intl=us&rid=21qdcitjfpn67&site=fp&t=1727847624044"
+  ],
+  "links": [
+    {
+      "src": "https://www.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "src": "https://www.yahoo.com/news/",
+      "text": "Today's news"
+    },
+    {
+      "src": "https://www.yahoo.com/news/us/",
+      "text": "US"
+    },
+    {
+      "src": "https://www.yahoo.com/news/politics/",
+      "text": "Politics"
+    },
+    {
+      "src": "https://www.yahoo.com/news/world/",
+      "text": "World"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/",
+      "text": "Tech"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/reviews-deals/",
+      "text": "Reviews and deals"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/audio/",
+      "text": "Audio"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/computing/",
+      "text": "Computing"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/gaming/",
+      "text": "Gaming"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/health/",
+      "text": "Health"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/home/",
+      "text": "Home"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/phones/",
+      "text": "Phones"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/science/",
+      "text": "Science"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/tvs/",
+      "text": "TVs"
+    },
+    {
+      "src": "https://www.yahoo.com/tagged/climate-change/",
+      "text": "Climate change"
+    },
+    {
+      "src": "https://www.yahoo.com/news/health/",
+      "text": "Health"
+    },
+    {
+      "src": "https://www.yahoo.com/news/science/",
+      "text": "Science"
+    },
+    {
+      "src": "https://www.yahoo.com/elections/",
+      "text": "2024 election"
+    },
+    {
+      "src": "https://news.yahoo.com/originals/",
+      "text": "Originals"
+    },
+    {
+      "src": "https://www.yahoo.com/news/tagged/360/",
+      "text": "The 360"
+    },
+    {
+      "src": "https://news.yahoo.com/newsletters/",
+      "text": "Newsletters"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/",
+      "text": "Life"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/health/",
+      "text": "Health"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/covid/",
+      "text": "COVID-19"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/fall-allergies/",
+      "text": "Fall allergies"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/do-i-need-to-worry/",
+      "text": "Health news"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/mental-health/",
+      "text": "Mental health"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/relax/",
+      "text": "Relax"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/sexual-health/",
+      "text": "Sexual health"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/study/",
+      "text": "Studies"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/the-unwind/",
+      "text": "The Unwind"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/parenting/",
+      "text": "Parenting"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/family-health/",
+      "text": "Family health"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/so-mini-ways/",
+      "text": "So mini ways"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/style-beauty/",
+      "text": "Style and beauty"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/it-figures/",
+      "text": "It Figures"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/unapologetically/",
+      "text": "Unapologetically"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/horoscope/",
+      "text": "Horoscopes"
+    },
+    {
+      "src": "https://shopping.yahoo.com/",
+      "text": "Shopping"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/best-of/",
+      "text": "Buying guides"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/food/",
+      "text": "Food"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/travel/",
+      "text": "Travel"
+    },
+    {
+      "src": "https://autos.yahoo.com/",
+      "text": "Autos"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/amazon-october-prime-day-2024-early-deals-and-everything-to-know-about-the-big-deal-days-sale-143607967.html",
+      "text": "Prime Day"
+    },
+    {
+      "src": "https://www.yahoo.com/topics/gift-ideas/",
+      "text": "Gift ideas"
+    },
+    {
+      "src": "https://www.yahoo.com/topics/buying-guides/",
+      "text": "Buying guides"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/celebrity/",
+      "text": "Celebrity"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tv/",
+      "text": "TV"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/movies/",
+      "text": "Movies"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/music/",
+      "text": "Music"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tagged/how-to-watch/",
+      "text": "How to Watch"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tagged/interviews/",
+      "text": "Interviews"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tagged/videos/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/shopping/",
+      "text": "Shopping"
+    },
+    {
+      "src": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "src": "https://finance.yahoo.com/portfolios/",
+      "text": "My portfolio"
+    },
+    {
+      "src": "https://finance.yahoo.com/portfolio/p_1/view/v1",
+      "text": "My watchlist"
+    },
+    {
+      "src": "https://finance.yahoo.com/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/stock-market-news/",
+      "text": "Stock market"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/economic-news/",
+      "text": "Economics"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/earnings/",
+      "text": "Earnings"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "src": "https://finance.yahoo.com/live/politics/",
+      "text": "Politics"
+    },
+    {
+      "src": "https://finance.yahoo.com/bidenomics/",
+      "text": "Biden economy"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/personal-finance-news/",
+      "text": "Personal finance"
+    },
+    {
+      "src": "https://finance.yahoo.com/calendar/",
+      "text": "Markets"
+    },
+    {
+      "src": "https://finance.yahoo.com/most-active/",
+      "text": "Stocks: most active"
+    },
+    {
+      "src": "https://finance.yahoo.com/gainers/",
+      "text": "Stocks: gainers"
+    },
+    {
+      "src": "https://finance.yahoo.com/losers/",
+      "text": "Stocks: losers"
+    },
+    {
+      "src": "https://finance.yahoo.com/trending-tickers/",
+      "text": "Trending tickers"
+    },
+    {
+      "src": "https://finance.yahoo.com/commodities/",
+      "text": "Futures"
+    },
+    {
+      "src": "https://finance.yahoo.com/world-indices/",
+      "text": "World indices"
+    },
+    {
+      "src": "https://finance.yahoo.com/bonds/",
+      "text": "US Treasury bonds"
+    },
+    {
+      "src": "https://finance.yahoo.com/currencies/",
+      "text": "Currencies"
+    },
+    {
+      "src": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "src": "https://finance.yahoo.com/etfs/",
+      "text": "Top ETFs"
+    },
+    {
+      "src": "https://finance.yahoo.com/mutualfunds",
+      "text": "Top mutual funds"
+    },
+    {
+      "src": "https://finance.yahoo.com/options/highest-open-interest/",
+      "text": "Highest open interest"
+    },
+    {
+      "src": "https://finance.yahoo.com/options/highest-implied-volatility/",
+      "text": "Highest implied volatility"
+    },
+    {
+      "src": "https://finance.yahoo.com/currency-converter/",
+      "text": "Currency converter"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/",
+      "text": "Sectors"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/basic-materials/",
+      "text": "Basic materials"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/communication-services/",
+      "text": "Communication services"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/consumer-cyclical/",
+      "text": "Consumer cyclical"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/consumer-defensive/",
+      "text": "Consumer defensive"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/energy/",
+      "text": "Energy"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/financial-services/",
+      "text": "Financial services"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/healthcare/",
+      "text": "Healthcare"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/industrials/",
+      "text": "Industrials"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/real-estate/",
+      "text": "Real estate"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/technology/",
+      "text": "Technology"
+    },
+    {
+      "src": "https://finance.yahoo.com/sectors/utilities/",
+      "text": "Utilities"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/",
+      "text": "Screeners"
+    },
+    {
+      "src": "https://finance.yahoo.com/watchlists/",
+      "text": "Watchlists"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/new/",
+      "text": "Equities"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/etf/new/",
+      "text": "ETFs"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/future/new/",
+      "text": "Futures"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/index/new/",
+      "text": "Index"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/mutualfund/new/",
+      "text": "Mutual funds"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/analyst_ratings/new?ncid=dcm_320339942_490172245_127172993",
+      "text": "Analyst rating screener"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/tradingcentral_event/new?ncid=dcm_320544712_490172245_127172993",
+      "text": "Technical events screener"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/institutional_interest/new?ncid=dcm_320344326_490172245_127172993",
+      "text": "Smart money screener"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/institutional_holdings/new?ncid=dcm_320545006_490172245_127172993",
+      "text": "Top holdings screener"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/personal-finance/",
+      "text": "Personal finance"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/credit-cards/",
+      "text": "Credit cards"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/best-credit-card-for-balance-transfer-213356438.html",
+      "text": "Balance transfer cards"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/best-cash-back-credit-cards-220845639.html",
+      "text": "Cash back cards"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/best-rewards-credit-card-203736692.html",
+      "text": "Rewards cards"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/best-travel-credit-card-203950032.html",
+      "text": "Travel cards"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/banking/",
+      "text": "Banking"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/find-best-cd-rates-165749654.html",
+      "text": "CD rates"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/best-online-checking-account-180614848.html",
+      "text": "Online checking"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/best-high-yield-savings-account-rates-203648059.html",
+      "text": "High-yield savings"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/high-yield-money-market-accounts-170614474.html",
+      "text": "Money market"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/mortgages/",
+      "text": "Mortgage"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/home-equity-loan-180802527.html",
+      "text": "Home equity loan"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/home-equity-line-of-credit-heloc-201539345.html",
+      "text": "HELOC"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/personal-loans/",
+      "text": "Personal loans"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/student-loans/",
+      "text": "Student loans"
+    },
+    {
+      "src": "https://finance.yahoo.com/personal-finance/insurance/",
+      "text": "Insurance"
+    },
+    {
+      "src": "https://finance.yahoo.com/taxes/",
+      "text": "Taxes"
+    },
+    {
+      "src": "https://finance.yahoo.com/videos/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/etf-report/",
+      "text": "ETF report"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/fa-corner/",
+      "text": "FA corner"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/options-pit/",
+      "text": "Options pit"
+    },
+    {
+      "src": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/predefined/ms_basic_materials/",
+      "text": "Industries"
+    },
+    {
+      "src": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "src": "https://sports.yahoo.com/fantasy/",
+      "text": "Fantasy"
+    },
+    {
+      "src": "https://sports.yahoo.com/fantasy/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://football.fantasysports.yahoo.com/",
+      "text": "Fantasy football"
+    },
+    {
+      "src": "https://bestball.fantasysports.yahoo.com/",
+      "text": "Best Ball"
+    },
+    {
+      "src": "https://football.fantasysports.yahoo.com/pickem",
+      "text": "Pro Pick 'Em"
+    },
+    {
+      "src": "https://football.fantasysports.yahoo.com/college",
+      "text": "College Pick 'Em"
+    },
+    {
+      "src": "https://baseball.fantasysports.yahoo.com/",
+      "text": "Fantasy baseball"
+    },
+    {
+      "src": "https://hockey.fantasysports.yahoo.com/",
+      "text": "Fantasy hockey"
+    },
+    {
+      "src": "https://basketball.fantasysports.yahoo.com/",
+      "text": "Fantasy basketball"
+    },
+    {
+      "src": "https://sports.yahoo.com/fantasy/mobile/",
+      "text": "Download the app"
+    },
+    {
+      "src": "https://sports.yahoo.com/dailyfantasy/",
+      "text": "Daily fantasy"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/",
+      "text": "NFL"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/standings/",
+      "text": "Standings"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/stats/",
+      "text": "Stats"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/teams/",
+      "text": "Teams"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/players/",
+      "text": "Players"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/draft/",
+      "text": "Drafts"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/injuries/",
+      "text": "Injuries"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/odds/",
+      "text": "Odds"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/topic/super-bowl/",
+      "text": "Super Bowl"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/gamechannel/",
+      "text": "GameChannel"
+    },
+    {
+      "src": "https://sports.yahoo.com/videos/nfl/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/",
+      "text": "MLB"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/standings/",
+      "text": "Standings"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/stats/",
+      "text": "Stats"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/teams/",
+      "text": "Teams"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/players/",
+      "text": "Players"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/odds/",
+      "text": "Odds"
+    },
+    {
+      "src": "https://sports.yahoo.com/videos/mlb/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/world-baseball-classic/",
+      "text": "World Baseball Classic"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/",
+      "text": "NBA"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/draft/",
+      "text": "Draft"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/standings/",
+      "text": "Standings"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/stats/",
+      "text": "Stats"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/teams/",
+      "text": "Teams"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/players/",
+      "text": "Players"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/injuries/",
+      "text": "Injuries"
+    },
+    {
+      "src": "https://sports.yahoo.com/videos/nba/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/odds/",
+      "text": "Odds"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/playoffs/",
+      "text": "Playoffs"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/",
+      "text": "NHL"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/standings/",
+      "text": "Standings"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/stats/",
+      "text": "Stats"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/teams/",
+      "text": "Teams"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/players/",
+      "text": "Players"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/odds/",
+      "text": "Odds"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/stanley-cup-playoffs/",
+      "text": "Playoffs"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/",
+      "text": "Soccer"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/premier-league/",
+      "text": "Premier League"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/mls/",
+      "text": "MLS"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/nwsl/",
+      "text": "NWSL"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/ligamx-clausura/",
+      "text": "Liga MX"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/concacaf-league/",
+      "text": "CONCACAF League"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/champions-league/",
+      "text": "Champions League"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/la-liga/",
+      "text": "La Liga"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/serie-a/",
+      "text": "Serie A"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/bundesliga/",
+      "text": "Bundesliga"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/ligue-1/",
+      "text": "Ligue 1"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/world-cup/",
+      "text": "World Cup"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/",
+      "text": "College football"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/standings/",
+      "text": "Standings"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/rankings/",
+      "text": "Rankings"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/stats/",
+      "text": "Stats"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/teams/",
+      "text": "Teams"
+    },
+    {
+      "src": "https://sports.yahoo.com/mma/",
+      "text": "MMA"
+    },
+    {
+      "src": "https://sports.yahoo.com/wnba/",
+      "text": "WNBA"
+    },
+    {
+      "src": "https://sports.yahoo.com/sportsbook/",
+      "text": "Sportsbook"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/",
+      "text": "NCAAF"
+    },
+    {
+      "src": "https://sports.yahoo.com/tennis/",
+      "text": "Tennis"
+    },
+    {
+      "src": "https://sports.yahoo.com/golf/",
+      "text": "Golf"
+    },
+    {
+      "src": "https://sports.yahoo.com/motorsports/nascar/",
+      "text": "NASCAR"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-basketball/",
+      "text": "NCAAB"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-womens-basketball/",
+      "text": "NCAAW"
+    },
+    {
+      "src": "https://sports.yahoo.com/boxing/",
+      "text": "Boxing"
+    },
+    {
+      "src": "https://sports.yahoo.com/usfl/",
+      "text": "USFL"
+    },
+    {
+      "src": "https://sports.yahoo.com/cycling/",
+      "text": "Cycling"
+    },
+    {
+      "src": "https://sports.yahoo.com/motorsports/",
+      "text": "Motorsports"
+    },
+    {
+      "src": "https://sports.yahoo.com/olympics/beijing-2022/",
+      "text": "Olympics"
+    },
+    {
+      "src": "https://sports.yahoo.com/horse-racing/",
+      "text": "Horse racing"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/gamechannel/",
+      "text": "GameChannel"
+    },
+    {
+      "src": "https://n.rivals.com/",
+      "text": "Rivals"
+    },
+    {
+      "src": "https://sports.yahoo.com/newsletters/",
+      "text": "Newsletters"
+    },
+    {
+      "src": "https://sports.yahoo.com/podcasts/",
+      "text": "Podcasts"
+    },
+    {
+      "src": "https://sports.yahoo.com/videos/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://sports.yahoo.com/syndication/",
+      "text": "RSS"
+    },
+    {
+      "src": "https://sports.yahoo.com/jobs/",
+      "text": "Jobs"
+    },
+    {
+      "src": "https://help.yahoo.com/kb/sports-news",
+      "text": "Help"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/world-cup/",
+      "text": "World Cup"
+    },
+    {
+      "src": "https://sports.yahoo.com/news/",
+      "text": "More news"
+    },
+    {
+      "src": "https://www.yahoo.com/games/",
+      "text": "Games"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/",
+      "text": "Tech"
+    },
+    {
+      "src": "https://guce.yahoo.com/terms?locale=en-US",
+      "text": "Terms"
+    },
+    {
+      "src": "https://guce.yahoo.com/privacy-policy?locale=en-US",
+      "text": "Privacy"
+    },
+    {
+      "src": "https://guce.yahoo.com/privacy-dashboard?locale=en-US",
+      "text": "Privacy Dashboard"
+    },
+    {
+      "src": "https://yahoo.uservoice.com/forums/925969?browser=chrome&bucket=rocket_GA_desk_test-3-v1%2CUSNEL-ReactInRMP-commerce-test-1001%2CTNBE004&location=US&os=windows+nt&partner=none&rid=21qdcitjfpn67",
+      "text": "Feedback"
+    },
+    {
+      "src": "https://www.yahoo.com/?p=dnr",
+      "text": "USEnglish"
+    },
+    {
+      "src": "https://espanol.yahoo.com/?p=dnr",
+      "text": "US y LATAMEspañol"
+    },
+    {
+      "src": "https://au.yahoo.com/?p=dnr",
+      "text": "AustraliaEnglish"
+    },
+    {
+      "src": "https://ca.yahoo.com/?p=dnr",
+      "text": "CanadaEnglish"
+    },
+    {
+      "src": "https://qc.yahoo.com/?p=dnr",
+      "text": "CanadaFrançais"
+    },
+    {
+      "src": "https://de.yahoo.com/?p=dnr",
+      "text": "DeutschlandDeutsch"
+    },
+    {
+      "src": "https://fr.yahoo.com/?p=dnr",
+      "text": "FranceFrançais"
+    },
+    {
+      "src": "https://hk.yahoo.com/?p=dnr",
+      "text": "香港繁中"
+    },
+    {
+      "src": "https://malaysia.yahoo.com/?p=dnr",
+      "text": "MalaysiaEnglish"
+    },
+    {
+      "src": "https://nz.yahoo.com/?p=dnr",
+      "text": "New ZealandEnglish"
+    },
+    {
+      "src": "https://sg.yahoo.com/?p=dnr",
+      "text": "SingaporeEnglish"
+    },
+    {
+      "src": "https://tw.yahoo.com/?p=dnr",
+      "text": "台灣繁中"
+    },
+    {
+      "src": "https://uk.yahoo.com/?p=dnr",
+      "text": "UKEnglish"
+    },
+    {
+      "src": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html",
+      "text": "About our ads"
+    },
+    {
+      "src": "https://www.adtech.yahooinc.com/advertising/solutions",
+      "text": "Advertising"
+    },
+    {
+      "src": "https://www.yahooinc.com/careers/",
+      "text": "Careers"
+    },
+    {
+      "src": "https://www.yahoo.com/",
+      "text": "Yahoo Home"
+    },
+    {
+      "src": "https://www.yahoo.com/?p=dnr",
+      "text": "USEnglish"
+    },
+    {
+      "src": "https://espanol.yahoo.com/?p=dnr",
+      "text": "US y LATAMEspañol"
+    },
+    {
+      "src": "https://au.yahoo.com/?p=dnr",
+      "text": "AustraliaEnglish"
+    },
+    {
+      "src": "https://ca.yahoo.com/?p=dnr",
+      "text": "CanadaEnglish"
+    },
+    {
+      "src": "https://qc.yahoo.com/?p=dnr",
+      "text": "CanadaFrançais"
+    },
+    {
+      "src": "https://de.yahoo.com/?p=dnr",
+      "text": "DeutschlandDeutsch"
+    },
+    {
+      "src": "https://fr.yahoo.com/?p=dnr",
+      "text": "FranceFrançais"
+    },
+    {
+      "src": "https://hk.yahoo.com/?p=dnr",
+      "text": "香港繁中"
+    },
+    {
+      "src": "https://malaysia.yahoo.com/?p=dnr",
+      "text": "MalaysiaEnglish"
+    },
+    {
+      "src": "https://nz.yahoo.com/?p=dnr",
+      "text": "New ZealandEnglish"
+    },
+    {
+      "src": "https://sg.yahoo.com/?p=dnr",
+      "text": "SingaporeEnglish"
+    },
+    {
+      "src": "https://tw.yahoo.com/?p=dnr",
+      "text": "台灣繁中"
+    },
+    {
+      "src": "https://uk.yahoo.com/?p=dnr",
+      "text": "UKEnglish"
+    },
+    {
+      "src": "https://www.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "src": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "src": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "src": "https://www.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "src": "https://www.yahoo.com/news/",
+      "text": "Today's news"
+    },
+    {
+      "src": "https://www.yahoo.com/news/us/",
+      "text": "US"
+    },
+    {
+      "src": "https://www.yahoo.com/news/politics/",
+      "text": "Politics"
+    },
+    {
+      "src": "https://www.yahoo.com/news/world/",
+      "text": "World"
+    },
+    {
+      "src": "https://www.yahoo.com/news/weather/",
+      "text": "Weather"
+    },
+    {
+      "src": "https://yahoo.com/tagged/climate-change/",
+      "text": "Climate change"
+    },
+    {
+      "src": "https://www.yahoo.com/news/health/",
+      "text": "Health"
+    },
+    {
+      "src": "https://www.yahoo.com/news/science/",
+      "text": "Science"
+    },
+    {
+      "src": "https://www.yahoo.com/election/",
+      "text": "2024 election"
+    },
+    {
+      "src": "https://www.yahoo.com/news/originals/",
+      "text": "Originals"
+    },
+    {
+      "src": "https://news.yahoo.com/newsletters/",
+      "text": "Newsletters"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/",
+      "text": "Life"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/health/",
+      "text": "Health"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/parenting/",
+      "text": "Parenting"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/style-beauty/",
+      "text": "Style and beauty"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/horoscope/",
+      "text": "Horoscopes"
+    },
+    {
+      "src": "https://shopping.yahoo.com/",
+      "text": "Shopping"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/food/",
+      "text": "Food"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/travel/",
+      "text": "Travel"
+    },
+    {
+      "src": "https://autos.yahoo.com/",
+      "text": "Autos"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/amazon-october-prime-day-2024-early-deals-and-everything-to-know-about-the-big-deal-days-sale-143607967.html",
+      "text": "Prime Day"
+    },
+    {
+      "src": "https://www.yahoo.com/topics/gift-ideas/",
+      "text": "Gift ideas"
+    },
+    {
+      "src": "https://www.yahoo.com/topics/buying-guides/",
+      "text": "Buying guides"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/celebrity/",
+      "text": "Celebrity"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tv/",
+      "text": "TV"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/movies/",
+      "text": "Movies"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/music/",
+      "text": "Music"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tagged/how-to-watch/",
+      "text": "How to watch"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tagged/interviews/",
+      "text": "Interviews"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/tagged/videos/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/tagged/shopping/",
+      "text": "Shopping"
+    },
+    {
+      "src": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "src": "https://finance.yahoo.com/portfolios/",
+      "text": "My portfolio"
+    },
+    {
+      "src": "https://finance.yahoo.com/watchlists/",
+      "text": "Watchlists"
+    },
+    {
+      "src": "https://finance.yahoo.com/calendar/",
+      "text": "Markets"
+    },
+    {
+      "src": "https://finance.yahoo.com/news/",
+      "text": "News"
+    },
+    {
+      "src": "https://finance.yahoo.com/videos/",
+      "text": "Videos"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/",
+      "text": "Screeners"
+    },
+    {
+      "src": "https://finance.yahoo.com/topic/personal-finance/",
+      "text": "Personal finance"
+    },
+    {
+      "src": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "src": "https://finance.yahoo.com/screener/predefined/ms_basic_materials/",
+      "text": "Industries"
+    },
+    {
+      "src": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "src": "https://sports.yahoo.com/fantasy/",
+      "text": "Fantasy"
+    },
+    {
+      "src": "https://sports.yahoo.com/nfl/",
+      "text": "NFL"
+    },
+    {
+      "src": "https://sports.yahoo.com/nba/",
+      "text": "NBA"
+    },
+    {
+      "src": "https://sports.yahoo.com/mlb/",
+      "text": "MLB"
+    },
+    {
+      "src": "https://sports.yahoo.com/nhl/",
+      "text": "NHL"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-football/",
+      "text": "College football"
+    },
+    {
+      "src": "https://sports.yahoo.com/college-basketball/",
+      "text": "College basketball"
+    },
+    {
+      "src": "https://sports.yahoo.com/soccer/",
+      "text": "Soccer"
+    },
+    {
+      "src": "https://sports.yahoo.com/mma/",
+      "text": "MMA"
+    },
+    {
+      "src": "https://sports.yahoo.com/newsletters/yahoo-sports-am/",
+      "text": "Yahoo Sports AM"
+    },
+    {
+      "src": "https://www.yahoo.com/games/",
+      "text": "Games"
+    },
+    {
+      "src": "https://www.yahoo.com/tech/",
+      "text": "Tech"
+    },
+    {
+      "src": "https://www.yahoo.com/everything/world/",
+      "text": "Selected edition"
+    },
+    {
+      "src": "https://mail.yahoo.com/",
+      "text": "Mail"
+    },
+    {
+      "src": "https://login.yahoo.com/?.lang=en-US&src=homepage&.done=https%3A%2F%2Fwww.yahoo.com%2F&pspid=2023538075&activity=ybar-signin",
+      "text": "Sign in"
+    },
+    {
+      "src": "https://mail.yahoo.com/",
+      "text": "Mail"
+    },
+    {
+      "src": "https://news.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "src": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "src": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/",
+      "text": "Life"
+    },
+    {
+      "src": "https://www.yahoo.com/plus?ncid=mbr_ryhacqnav00000038",
+      "text": "Yahoo Plus"
+    },
+    {
+      "src": "https://www.yahoo.com/everything/",
+      "text": "More..."
+    },
+    {
+      "src": "https://www.yahoo.com/#Main",
+      "text": "Skip to main content"
+    },
+    {
+      "src": "https://www.yahoo.com/#Aside",
+      "text": "Skip to sidebar"
+    },
+    {
+      "src": "https://www.yahoo.com/news/how-did-tim-walz-and-jd-vance-do-in-the-vice-presidential-debate-4-key-moments-from-tuesdays-cordial-clash-041141845.html",
+      "text": "How Walz, Vance did in VP debate: 4 takeaways from a cordial clashFor one night, civility made a comeback. But on a question about Jan. 6 and certifying the 2020 election, stark differences emerged.Vance tries to clean up Trump's messaging »"
+    },
+    {
+      "src": "https://www.yahoo.com/news/flooding-isolates-north-carolina-communities-101129826.html",
+      "text": "Helene death toll surpasses 160 as search for missing people in N.C. continues"
+    },
+    {
+      "src": "https://www.yahoo.com/news/gabapentin-heres-why-controversial-090203393.html",
+      "text": "What is the drug gabapentin — and why is it becoming so controversial?"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/american-pickers-frank-fritz-dies-151308179.html",
+      "text": "Mike Wolfe shares news that 'American Pickers' co-host Frank Fritz has died"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/ariana-grande-took-lie-detector-194207429.html",
+      "text": "Ariana Grande takes lie detector test for undergoing cosmetic procedures"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/cable-dying-streaming-cable-getting-171334385.html",
+      "text": "Cable is dying. Streaming is the new cable. But it's all getting worse."
+    },
+    {
+      "src": "https://www.yahoo.com/news/fact-check-7-false-claims-made-by-walz-and-vance-during-their-vice-presidential-debate-042419009.html",
+      "text": "Fact-check: 7 false claims made by Walz and Vance"
+    },
+    {
+      "src": "https://www.yahoo.com/news/won-debate-inside-vp-face-030649411.html",
+      "text": "Who won the debate? Inside the Vance and Walz VP face-off."
+    },
+    {
+      "src": "https://www.yahoo.com/news/vp-debate-moderators-mute-mics-025835661.html",
+      "text": "Moderators muted mics after Vance argued with fact-checking"
+    },
+    {
+      "src": "https://www.yahoo.com/news/walz-us-not-asia-during-204417909.html",
+      "text": "Walz confirms he was in U.S. during Tiananmen protests"
+    },
+    {
+      "src": "https://www.yahoo.com/news/vance-walz-focus-attacks-top-021937766.html",
+      "text": "Vance and Walz keep it civil in a policy-heavy discussion"
+    },
+    {
+      "src": "https://www.yahoo.com/news/harris-trump-enter-october-no-100000242.html",
+      "text": "What the polls say as Harris and Trump race enters October"
+    },
+    {
+      "src": "https://www.yahoo.com/news/jd-vance-changed-name-several-215316113.html",
+      "text": "Why JD Vance has changed his name several times"
+    },
+    {
+      "src": "https://www.yahoo.com/news/harris-interviewed-trump-declines-60-220002625.html",
+      "text": "Trump backs out of '60 Minutes' election special"
+    },
+    {
+      "src": "https://www.yahoo.com/news/pollsters-turning-ai-election-season-090058518.html",
+      "text": "Pollsters are turning to AI this election season"
+    },
+    {
+      "src": "https://www.yahoo.com/news/meet-family-tim-walz-kamala-194834002.html",
+      "text": "Meet the family of Tim Walz, Kamala Harris's VP pick"
+    },
+    {
+      "src": "https://www.yahoo.com/finance/news/venture-capital-u-capitol-look-185742679.html",
+      "text": "Venture capital to U.S. Capitol: What's JD Vance's net worth?"
+    },
+    {
+      "src": "https://www.yahoo.com/news/montana-rancher-gets-6-months-135659621.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/news/montana-rancher-gets-6-months-135659621.html",
+      "text": "Montana rancher gets 6 months in prison for creating hybrid sheep for captive hunting"
+    },
+    {
+      "src": "https://tracking.trdunicorn-online.com/dd1bb82a-0dea-4625-902a-7e686dadbcb3?site=yahoo-home&site_id=1551771&title=Investing+Tips+for+Uttar+Pradesh+Residents+%5BApply+Now%5D&platform=Desktop&campaign_id=36485954&campaign_item_id=3996577886&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2FSTABLE_DIFFUSION%2FESD%2F89a6ed21-2381-47db-9596-bd49daee1fc7__DER6ijQx.jpg&ad_id=3996577886&click_id=GiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iDcql8onuqgmcPJioaCATCb214&utm_source=taboola&utm_medium=referral&tblci=GiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iDcql8onuqgmcPJioaCATCb214#tblciGiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iDcql8onuqgmcPJioaCATCb214",
+      "text": ""
+    },
+    {
+      "src": "https://tracking.trdunicorn-online.com/dd1bb82a-0dea-4625-902a-7e686dadbcb3?site=yahoo-home&site_id=1551771&title=Investing+Tips+for+Uttar+Pradesh+Residents+%5BApply+Now%5D&platform=Desktop&campaign_id=36485954&campaign_item_id=3996577886&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2FSTABLE_DIFFUSION%2FESD%2F89a6ed21-2381-47db-9596-bd49daee1fc7__DER6ijQx.jpg&ad_id=3996577886&click_id=GiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iDcql8onuqgmcPJioaCATCb214&utm_source=taboola&utm_medium=referral&tblci=GiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iDcql8onuqgmcPJioaCATCb214#tblciGiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iDcql8onuqgmcPJioaCATCb214",
+      "text": "CPX·AdAdInvesting Tips for Uttar Pradesh Residents [Apply Now]"
+    },
+    {
+      "src": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-2:",
+      "text": "Ad"
+    },
+    {
+      "src": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-2:",
+      "text": "Ad"
+    },
+    {
+      "src": "https://popup.taboola.com/en/",
+      "text": "Why this ad?"
+    },
+    {
+      "src": "https://www.yahoo.com/plus/mail?ncid=mbr_ympacqlnk00000003",
+      "text": "Go ad-free*"
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/margot-robbie-just-made-nightgown-144619895.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/entertainment/margot-robbie-just-made-nightgown-144619895.html",
+      "text": "Margot Robbie Just Made a Nightgown and Shower Shoes Look Impossibly Chic"
+    },
+    {
+      "src": "https://www.yahoo.com/news/asheville-tragedy-shows-no-climate-003500794.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/news/asheville-tragedy-shows-no-climate-003500794.html",
+      "text": "Asheville tragedy shows there are no climate change safe havens: Experts"
+    },
+    {
+      "src": "https://www.yahoo.com/news/bankruptcy-judge-issues-ruling-case-002244755.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/news/bankruptcy-judge-issues-ruling-case-002244755.html",
+      "text": "Bankruptcy judge issues new ruling in case of Colorado football player Shilo Sanders"
+    },
+    {
+      "src": "https://www.yahoo.com/news/storm-tracker-national-hurricane-center-122754973.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/news/storm-tracker-national-hurricane-center-122754973.html",
+      "text": "Storm tracker: National Hurricane Center tracking Tropical Storm Kirk, 4 other systems"
+    },
+    {
+      "src": "https://www.thefutureuniversity.co/finance/hiral-commodity-taboola-desktop?masterclassid=clv9cl59r1w4cpcu69ni4q5kb&source=Taboola&comment=HSCO-Taboola-Desktop-Ad&utm_source=taboola&utm_medium=referral&tblci=GiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iCvzWgo9PSFsJPQjdTsATCb214#tblciGiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iCvzWgo9PSFsJPQjdTsATCb214",
+      "text": ""
+    },
+    {
+      "src": "https://www.thefutureuniversity.co/finance/hiral-commodity-taboola-desktop?masterclassid=clv9cl59r1w4cpcu69ni4q5kb&source=Taboola&comment=HSCO-Taboola-Desktop-Ad&utm_source=taboola&utm_medium=referral&tblci=GiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iCvzWgo9PSFsJPQjdTsATCb214#tblciGiCpo67xcyEYCHThXKi-mU9VbWOwrC8bFdY9SmIojFuJ3iCvzWgo9PSFsJPQjdTsATCb214",
+      "text": "TradeWise·AdAd90% Stock Trader's Not Know the \"Power of Commodity Trading\"Deep Dive in Well of Commodity Market with Hiral Mam's Masterclass and Maximize Your Returns. Sign Up Now For Success!"
+    },
+    {
+      "src": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-7:",
+      "text": "Ad"
+    },
+    {
+      "src": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-7:",
+      "text": "Ad"
+    },
+    {
+      "src": "https://popup.taboola.com/en/",
+      "text": "Why this ad?"
+    },
+    {
+      "src": "https://www.yahoo.com/plus/mail?ncid=mbr_ympacqlnk00000003",
+      "text": "Go ad-free*"
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/m-oncologist-afternoon-snack-eat-192500947.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/lifestyle/m-oncologist-afternoon-snack-eat-192500947.html",
+      "text": "‘I’m an Oncologist—This Is the Afternoon Snack I Eat Almost Every Day for Cancer Prevention’"
+    },
+    {
+      "src": "https://www.yahoo.com/news/u-air-force-academy-cadet-205849666.html",
+      "text": ""
+    },
+    {
+      "src": "https://www.yahoo.com/news/u-air-force-academy-cadet-205849666.html",
+      "text": "U.S. Air Force Academy cadet’s cause of death revealed in autopsy"
+    },
+    {
+      "src": "https://www.yahoo.com/",
+      "text": "Refresh Page"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Who+Won+Vp+Debate&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "1.Who Won Vp Debate"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Rashee+Rice&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "2.Rashee Rice"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Improving+Mental+Health&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "3.Improving Mental Health"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Sean+%27Diddy%27+Combs&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "4.Sean 'Diddy' Combs"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Fernando+Valenzuela&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "5.Fernando Valenzuela"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Chimney+Rock+Destroyed&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "6.Chimney Rock Destroyed"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Biltmore+Estate+Flooding&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "7.Biltmore Estate Flooding"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Pete+Rose&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "8.Pete Rose"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Gavin+Creel&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "9.Gavin Creel"
+    },
+    {
+      "src": "https://search.yahoo.com/search?p=Asheville+Flooding&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "10.Asheville Flooding"
+    }
+  ],
+  "imageCount": 26,
+  "linkCount": 393
+}
